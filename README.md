@@ -24,11 +24,11 @@ The dataset used in this project is from Kaggle and contains information on vari
 - **Attributes:**
   - `Country`
   - `Year`
-  - `Sex`
+  - `Gender`
   - `Age`
-  - `Type`
-  - `Perpetrator`
-  - `Reason`
+  - `RecordID`
+  - `Demographic Questions`
+  - `Demographic Response`
 
 ## Analysis
 
